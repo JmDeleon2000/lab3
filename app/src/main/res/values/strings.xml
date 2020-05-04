@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">lab3</string>
+    <string name="nombre">Nombre:</string>
+    <string name="edad"  >Edad:  </string>
+    <string name="hint1">Ingrese su nombre</string>
+    <string name="virus"  >Virus</string>
+    <string name="Sintomas"  >Síntomas</string>
+    <string name="Indicaciones"  >Indicaciones</string>
+    <string name="Instrucciones"  >Ingrese su nombre y rango de edad para recibir un resumen de su situación</string>
+    <string name="InfoWiros"  >Es importante mantener a los niños protegidos, ya que, si bien es poco probable que el virus mate a un niño sano, este sí puede causar problemas respiratorios de por vida para quienes se infectan.</string>
+    <string name="InfoJovenes"  >Los adultos jóvenes son poco vulnerables a virus. Sin embargo, es importante evitar el contagio para proteger a quienes sí son vulnerables.</string>
+    <string name="InfoMediana"  >Los adultos de mediana edad son más propensos al virus que los jóvenes. Especialmente cuando se trata de gente con condiciones previas que pueden propiciar la agravasión del virus. La diabetes o el asma son un ejemplo.</string>
+    <string name="InfoRuckos"  >El COVID-19  es muy peligroso para quienes tienen una edad avanzada. Evite salir lo más posible y mantenga una distancia apropiada de todas las personas, inclusive de familiares. Si puede no salir a hacer compras, ya sea con la ayuda de un familiar o con un servicio de repartición, hagalo.</string>
+    <string name="InfoAdolecentes"  >Los adolecentes son poco vulnerables a virus. Sin embargo, es importante evitar el contagio para proteger a quienes sí son vulnerables.</string>
+    <string name="DumpTitle"  >COVID-19</string>
+    <string name="DumpSubTitle0"  >Virus</string>
+    <string name="DumpSubTitle1"  >Síntomas</string>
+    <string name="DumpSubTitle2"  >Indicaciones</string>
+    <string name="Dump0"  >El COVID-19, llamado coloquialmente como Coronavirus, es un virus de la familia de los Coronavirus. Es un pariente del SARS de 2003, se podría decir que es una versión menos letal y más contagiosa del mismo. El COVID-19, al igual que el SARS de 2003, actua atacanto las células de los pulmones y luego las células inmunes que intentan detener la infección. Esto, en casos graves, causa una respuesta imunológica desmedida e inefectiva, gracias a que el virus estropea el sistema de omunicación hormonal de sistema inmunológico. Esto, junto con la muerte de muchas células pulmonares, propicia el ingreso de patógenos que normalmente serían detenidos por el sistema inmunológico y el tejido pulmonar.</string>
+    <string name="Dump1"  ><p>Tos seca</p><p>Flemas verdes o amarillentas</p><p>Ya me cansé, todos lo saben de todos modos</p></string>
+    <string name="Dump2"  ><p>Use mascarilla cuando salga o si está enfermo.</p> <p>No trate con nadie en persona si le es posible.</p> <p>Labese las manos con jabón o alcochol en gel.</p> <p>No se toque la cara o coma sin labarse las manos, especialmente si está fuera de casa o si acaba de tener interacción con alguien.</p></string>
+    <string-array name="AgeRange">
+        <item>"0-13"</item>
+        <item>"13-20"</item>
+        <item>"21-30"</item>
+        <item>"31-50"</item>
+        <item>"50+"</item>
+    </string-array>
+</resources>
